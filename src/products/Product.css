@@ -1,0 +1,18 @@
+.product-container {
+    padding-left: 3em;
+    padding-right: 3em;
+    margin-top: 3em;
+    margin-bottom: 3em;
+  }
+  .product-grid{
+
+    float: left;
+	background: #ffffff;
+	margin: 30px 30px 0px 0px;
+	border: #E0E0E0 1px solid;
+	padding: 10px 10px 20px 10px;
+    line-height: 30px;
+    text-align: center;
+    align-content: start;
+    display: sticky;
+  }
